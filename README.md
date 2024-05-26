@@ -46,4 +46,4 @@ Este projeto é uma aplicação Node.js simples que lista os pods em execução 
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a MIT License.
